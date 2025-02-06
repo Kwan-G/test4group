@@ -2,6 +2,7 @@
 ## Group Members
 - **Leader:** Pritesh Patel (1023756) - [GitHub](https://github.com/priteshpatel)
 - **Member 2:** Kwan Lee (101483927) - [GitHub](https://github.com/Kwan-G)
+- **Member 44:** Devin Wang (101476490) - [GitHub](https://github.com/Wangd-prog) 
 ## Project Description
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on 
 collaborative Git workflows, branching strategies, and CI/CD integration.
